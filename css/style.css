@@ -1,0 +1,32 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar {
+    background-color: #FA5882;
+    
+}
+
+.Sobre-nos{
+    background-color: #F5A9A9;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+    
+.Serviços {
+    background-color: #F6CECE;
+    color: white;
+}
+
+.Espaco {
+    background-color: #F8E0E0;
+    color: white;
+}
+
+.nav-link { 
+    color: white;
+}
